@@ -1,0 +1,6 @@
+IGUI_FR = {
+
+    IGUI_Headshot = "En pleine tête !",
+    IGUI_Bodyshot = "Dans le corps !",
+    IGUI_Footshot = "Dans le pied !",
+}
