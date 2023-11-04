@@ -169,4 +169,8 @@ Sandbox_FR = {
 	Sandbox_Advanced_trajectoryexhaleModifier3 = "Endurance level 3: Exhale intensity",
 	Sandbox_Advanced_trajectoryinhaleModifier4 = "Endurance level 4: Inhale intensity",
 	Sandbox_Advanced_trajectoryexhaleModifier4 = "Endurance level 4: Exhale intensity",
+
+	Sandbox_Advanced_trajectoryenableBulletPenFlesh = "Enable Bullet Penetration Through Flesh",
+	Sandbox_Advanced_trajectorypenDamageReductionMultiplier = "Bullet Penetration Reduction Multiplier",
+	Sandbox_Advanced_trajectorypenDamageReductionMultiplier_tooltip = "Ex: 0.1 means nerf bullet damage by 90% after penetrating through first zombie/player.",
 }
