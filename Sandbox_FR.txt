@@ -170,7 +170,18 @@ Sandbox_FR = {
 	Sandbox_Advanced_trajectoryinhaleModifier4 = "Endurance level 4: Inhale intensity",
 	Sandbox_Advanced_trajectoryexhaleModifier4 = "Endurance level 4: Exhale intensity",
 
+	Sandbox_enableBulletPenFlesh = "Enable Bullet Penetration Through Flesh",
 	Sandbox_Advanced_trajectoryenableBulletPenFlesh = "Enable Bullet Penetration Through Flesh",
 	Sandbox_Advanced_trajectorypenDamageReductionMultiplier = "Bullet Penetration Reduction Multiplier",
 	Sandbox_Advanced_trajectorypenDamageReductionMultiplier_tooltip = "Ex: 0.1 means nerf bullet damage by 90% after penetrating through first zombie/player.",
+
+	Sandbox_Advanced_trajectoryDebugOffset = "",
+	Sandbox_Advanced_trajectoryDebugSpawnOffset = "",
+	Sandbox_Advanced_trajectoryDebugZomMindistCondition = "",
+	Sandbox_Advanced_trajectoryDebugPlayerMindistCondition = "",
+	Sandbox_Advanced_trajectoryDebugGridMultiplier = "",
+	Sandbox_Advanced_trajectoryDebugEnableBow = "",
+	Sandbox_Advanced_trajectoryDebugEnableVoodoo = "",
+	Sandbox_Advanced_trajectoryDebugSayShotPart = "",
+	Sandbox_Advanced_trajectoryfootShotIncChance = "",
 }
